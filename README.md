@@ -2,7 +2,7 @@
 
 This tutorial is prepared at the Massachusetts Institute of Technology, Cambridge, MA, USA, by Vladimir Dvorkin, and is subject to copyright according to the MIT license. 
 
-To see the excecuted notebook directly in your browser, click [here](https://nbviewer.org/github/wdvorkin/linear_decision_rule_tutorial/blob/main/ldr_tutorial.ipynb).
+To see the notebook from your browser, click [here](https://nbviewer.org/github/wdvorkin/linear_decision_rule_tutorial/blob/main/ldr_tutorial.ipynb).
 
 ![Screen Shot 2022-04-15 at 2 27 48 PM](https://user-images.githubusercontent.com/31773955/163608522-2f5e6c40-4204-423a-a8d4-579e7f5c6ba3.png)
 
